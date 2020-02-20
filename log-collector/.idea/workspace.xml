@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4a416fb-e645-475d-8e38-0ffefb74b8ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VYdcF5xZooouo91aKFHg9PvAyk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-echarts-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaProjects\log-collector\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StreamingFromCollection">
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.foo.appclient.AppMain" />
+      <module name="log-collector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.foo.appclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingFromCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamingFromCollection" />
+      <module name="flinkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="F:\CMS\git\git-bash.exe" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aa.sh" type="BashConfigurationType" factoryName="Bash">
+      <module name="flume_interceptor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="F:\CMS\git\bin\bash.exe" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="D:\ideaProjects\flume_interceptor\src\main\java\com\foo\flume\interceptor" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\ideaProjects\flume_interceptor\src\main\java\com\foo\flume\interceptor\aa.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppMain" />
+      <item itemvalue="Application.StreamingFromCollection" />
+      <item itemvalue="Bash.aa.sh" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingFromCollection" />
+        <item itemvalue="Application.AppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a416fb-e645-475d-8e38-0ffefb74b8ee" name="Default Changelist" comment="" />
+      <created>1577434039171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577434039171</updated>
+      <workItem from="1577434040770" duration="5052000" />
+      <workItem from="1577688209537" duration="3242000" />
+      <workItem from="1577775459962" duration="2344000" />
+      <workItem from="1577875445899" duration="2622000" />
+      <workItem from="1577966395650" duration="1198000" />
+      <workItem from="1578012293940" duration="480000" />
+      <workItem from="1578012798120" duration="36000" />
+      <workItem from="1578012857630" duration="171000" />
+      <workItem from="1578013051703" duration="110000" />
+      <workItem from="1578013183080" duration="7587000" />
+      <workItem from="1578448036217" duration="1000" />
+      <workItem from="1578448439357" duration="1000" />
+      <workItem from="1578448524613" duration="21000" />
+      <workItem from="1578448681120" duration="1000" />
+      <workItem from="1578449181582" duration="1801000" />
+      <workItem from="1578451017698" duration="27000" />
+      <workItem from="1578451111418" duration="8000" />
+      <workItem from="1578451148384" duration="24000" />
+      <workItem from="1578451201682" duration="27000" />
+      <workItem from="1578451318625" duration="6000" />
+      <workItem from="1578451348622" duration="44000" />
+      <workItem from="1578451416538" duration="3095000" />
+      <workItem from="1578455464785" duration="4889000" />
+      <workItem from="1578470068538" duration="5612000" />
+      <workItem from="1579237585433" duration="3477000" />
+      <workItem from="1580554500824" duration="5660000" />
+      <workItem from="1580624458740" duration="1840000" />
+      <workItem from="1580632456998" duration="2478000" />
+      <workItem from="1580712800827" duration="1505000" />
+      <workItem from="1580797118952" duration="1198000" />
+      <workItem from="1580885330390" duration="610000" />
+      <workItem from="1581068113919" duration="238000" />
+      <workItem from="1582005059295" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
